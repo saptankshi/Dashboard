@@ -1,3 +1,16 @@
+## Features
+
+- **Responsive Sidebar**: Toggleable sidebar with icons, which is visible on large screens and collapses into a menu icon for mobile devices.
+- **Sidebar Menu**: Includes links like Dashboard, Wallet, Transactions, etc., displayed in a vertical navigation bar.
+- **Main Content**: Displays the main content when the sidebar is toggled or collapsed.
+
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **React Icons**: For using icon components such as the menu (FiMenu) and close (FiX) icons.
+- **Tailwind CSS**: Utility-first CSS framework for styling components.
+- **React Router** (if applicable): For routing in case you have pages linked in the sidebar.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
